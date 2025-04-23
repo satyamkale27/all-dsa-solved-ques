@@ -14,6 +14,7 @@ public class arraySortedCheck {
         System.out.println(result);
     }
 
+    // mycode, with optimal approach
 
 
     static boolean isAssending(int[] arr){

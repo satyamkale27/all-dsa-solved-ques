@@ -2,6 +2,7 @@ package com.linearSearch;
 
 public class linearSearch {
     public static void main(String[] args) {
+        // code written by me
 
 
         /*

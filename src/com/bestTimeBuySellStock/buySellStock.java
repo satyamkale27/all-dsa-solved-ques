@@ -1,5 +1,11 @@
 package com.bestTimeBuySellStock;
 
+/*
+
+wrong code, failed approach
+
+ */
+
 import java.util.ArrayList;
 
 public class buySellStock {

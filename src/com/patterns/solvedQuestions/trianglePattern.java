@@ -15,12 +15,12 @@ public class trianglePattern {
 
         for (int i = 0; i < n ; i++){
 
-            for (int s = 0; s < middle - num; s++) {
-                System.out.print(" ");
+            for (int s = 0; s < till - num; s++) {
+                System.out.print("8");
             }
 
 
-            for (int j = middle - num; j <= middle + num; j++){
+            for (int j = middle - num; j < middle + num; j++){
 
                 System.out.print("* ");
             }

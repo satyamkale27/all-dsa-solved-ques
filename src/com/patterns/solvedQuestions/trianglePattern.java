@@ -20,7 +20,7 @@ public class trianglePattern {
             }
 
 
-            for (int j = middle - num; j < middle + num; j++){
+            for (int j = middle - num; j <= middle + num; j++){
 
                 System.out.print("* ");
             }
